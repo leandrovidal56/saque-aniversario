@@ -63,7 +63,7 @@ APP_VERSION=1.0.0
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/leandrovidal56/saque-aniversario.git
 cd fgts-saque-aniversario
 
 # Instale as dependências
