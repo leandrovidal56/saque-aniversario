@@ -1,7 +1,7 @@
 import { ThemeProvider } from 'styled-components/native';
 import { Router } from './src/routes';
 import { defaultTheme } from './src/theme';
-import { SimulationProvider } from './src/context/SimulationContext';
+import { SimulationProvider } from './src/context/simulationContext';
 
 export default function App() {
   return (
